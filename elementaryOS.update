@@ -1,5 +1,5 @@
 ###
-Copied from:
+Modified based on:
 https://gist.github.com/thomph/4bc65e6275fc7aa4370a
 ###
 
@@ -101,3 +101,9 @@ sudo apt-get install sublime-text-installer
 
 #Install more packages
 sudo apt-get install vim aptitude shutter tomboy
+
+#Install Chinese Input
+sudo apt install fcitx fcitx-googlepinyin im-config
+#open a terminal and type im-config, choose fcitx input and select the corresponding input method.
+
+
