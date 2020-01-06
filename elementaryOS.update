@@ -45,7 +45,7 @@ sudo apt-get update
 sudo apt-get install gimp gimp-data gimp-plugin-registry gimp-data-extras
 
 #Install Elementary OS extras
-sudo add-apt-repository ppa:mpstark/elementary-tweaks-daily
+sudo add-apt-repository ppa:philip.scott/elementary-tweaks
 sudo apt-get update
 sudo apt-get install elementary-desktop elementary-tweaks
 
@@ -103,7 +103,7 @@ sudo apt-get install sublime-text-installer
 sudo apt-get install vim aptitude shutter tomboy
 
 #Install Chinese Input
-sudo apt install fcitx fcitx-googlepinyin im-config
+sudo apt-get install fcitx fcitx-googlepinyin im-config
 #open a terminal and type im-config, choose fcitx input and select the corresponding input method.
 
 
