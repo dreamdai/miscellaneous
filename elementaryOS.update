@@ -3,6 +3,8 @@ Modified based on:
 https://gist.github.com/thomph/4bc65e6275fc7aa4370a
 ###
 
+## keyring
+rm ~/.local/share/keyrings/login.keyring
 
 #Download Elementary OS from here: 
 #https://elementary.io/
